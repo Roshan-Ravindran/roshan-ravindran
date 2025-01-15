@@ -2,6 +2,8 @@
 <p align="center">
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats-gamma-one.vercel.app?user=roshan-ravindran&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-ravindran&layout=compact" alt="GitHub top lang" /></a>
+  
 </p>
 <!--
 **Roshan-Ravindran/roshan-ravindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
