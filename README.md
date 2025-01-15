@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Roshan-Ravindran&theme=dark&hide_border=true" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-gamma-one.vercel.app?user=roshan-ravindran&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <!--
 **Roshan-Ravindran/roshan-ravindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
