@@ -23,13 +23,8 @@ I am a Cloud Engineer & A recent Master’s graduate in Cybersecurity from SFU w
 
 <p align="left">
 <a href="https://git.io/streak-stats">
-<<<<<<< HEAD
-  <img height="160px" src="https://github-readme-streak-stats-gamma-one.vercel.app?user=roshan-ravindran&theme=dark&exclude_days=Sun" alt="GitHub Streak" /></a>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-ravindran&layout=compact&theme=dark" alt="GitHub top lang" /></a>
-=======
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-ravindran&layout=compact&theme=dark" alt="GitHub top lang" />
   <img height="160px" src="https://github-readme-streak-stats-gamma-one.vercel.app?user=roshan-ravindran&theme=dark" alt="GitHub Streak" /></a>
->>>>>>> d1fa31b (Update README.md with latest project details)
 </p>
 
 <!--
